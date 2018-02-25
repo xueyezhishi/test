@@ -1,5 +1,4 @@
-package test;  
-import jarcom.ComTool;
+package test;
 
 import java.math.BigDecimal;
 import java.net.*;  
@@ -11,11 +10,10 @@ import java.util.List;
 import java.util.Set;
 import java.io.*;  
 
-import org.joda.time.DateTime;
 
 
   
-public class test {  
+public class test2 {  
     public static void main(String[] args) throws Exception {  
 		try {
 /*			Date time = new Date();
